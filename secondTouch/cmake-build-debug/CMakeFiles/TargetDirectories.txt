@@ -1,0 +1,3 @@
+C:/Users/erafsme/dev/repo/OpenGL/secondTouch/cmake-build-debug/CMakeFiles/edit_cache.dir
+C:/Users/erafsme/dev/repo/OpenGL/secondTouch/cmake-build-debug/CMakeFiles/secondTouch.dir
+C:/Users/erafsme/dev/repo/OpenGL/secondTouch/cmake-build-debug/CMakeFiles/rebuild_cache.dir
